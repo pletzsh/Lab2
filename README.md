@@ -1,2 +1,5 @@
+Shawn Pletz
+CSIS 153
+Minnesota State University Moorhead
 # Lab2
-CSIS 153 - GitHub Lab2
+GitHub Lab2
